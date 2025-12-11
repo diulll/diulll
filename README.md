@@ -1,10 +1,11 @@
 ## Hi there 👋
-
 <div align="center">
 
-  <h3>📊 Statistik Lengkap (Auto-Update)</h3>
+  <img src="https://raw.githubusercontent.com/diulll/diulll/main/metrics-streak.svg" alt="Streak" width="48%">
   
-  <img src="https://raw.githubusercontent.com/diulll/diulll/main/github-metrics.svg" alt="Metrics" width="100%">
+  &nbsp;
+
+  <img src="https://raw.githubusercontent.com/diulll/diulll/main/metrics-stats.svg" alt="Stats" width="48%">
 
 </div>
 
