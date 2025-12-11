@@ -2,11 +2,9 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diulll&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diulll&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diulll&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <h3> Statistik GitHub Saya</h3>
+  
+  <img src="https://raw.githubusercontent.com/diulll/diulll/main/github-metrics.svg" alt="Metrics" width="100%">
 
 </div>
 
