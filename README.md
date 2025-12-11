@@ -2,17 +2,11 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diulll&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diulll&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://git.io/streak-stats">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diulll&theme=tokyonight"/>
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diulll&theme=tokyonight)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diulll&layout=compact&theme=tokyonight"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diulll&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
