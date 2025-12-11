@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/diulll/diulll/output/github-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Dans-Vsa/Dans-Vsa/output/github-snake-dark.svg" alt="Snake animation"/>
 </div>
+
+---
+
+<div align="center">
