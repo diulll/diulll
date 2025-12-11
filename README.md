@@ -10,11 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diulll&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
-
-
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/diulll/diulll/output/github-snake-dark.svg" alt="Snake animation"/>
 </div>
