@@ -4,7 +4,7 @@
 
   <h3> Statistik GitHub Saya</h3>
   
-  <img src="https://raw.githubusercontent.com/diulll/diulll/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/diulll/diulll/main/github-metrics.svg" alt="Metrics" width="500px">
 
 </div>
 
