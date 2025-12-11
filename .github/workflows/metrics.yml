@@ -1,10 +1,8 @@
 name: GitHub Metrics
 
 on:
-  # Update setiap jam 00:00 (tengah malam)
   schedule:
     - cron: "0 0 * * *"
-  # Bisa dijalankan manual
   workflow_dispatch:
   push:
     branches:
@@ -16,29 +14,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate Stats & Streak
+      - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Token ini WAJIB pakai Token yang Anda buat tadi (TOKEN_ULAR atau SNAKE_BARU)
-          # Jangan pakai GITHUB_TOKEN bawaan!
+          # Pastikan TOKEN_ULAR ini ada di Settings > Secrets
           token: ${{ secrets.TOKEN_ULAR }} 
 
-          # Konfigurasi User
+          # Setting User
           user: diulll
           template: classic
-          
-          # Nama file output
+          config_timezone: Asia/Jakarta
           filename: github-metrics.svg
           
-          # Isi Statistik
+          # Isi Gambar (Lengkap)
           base: header, activity, community, repositories, metadata
-          
-          # Plugin Streak (Pengganti streak-stats)
           plugin_streak: yes
-          plugin_streak_mode: weekly
-          
-          # Plugin Bahasa (Pengganti top-langs)
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css
-          plugin_languages_limit: 4
+          plugin_lines: yes
