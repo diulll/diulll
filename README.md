@@ -2,17 +2,9 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diulll&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://git.io/streak-stats">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diulll&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diulll&layout=compact&theme=tokyonight"/>
-</a>
+  <h3>📊 Statistik Lengkap (Auto-Update)</h3>
+  
+  <img src="https://raw.githubusercontent.com/diulll/diulll/main/github-metrics.svg" alt="Metrics" width="100%">
 
 </div>
 
