@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HafidzThufail22/HafidzThufail22/output/github-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/diulll/diulll/output/github-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
