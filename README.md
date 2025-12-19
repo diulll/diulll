@@ -7,11 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Solve+hard+problems.+Ship+clean+systems.;Do+your+duty+and+let+things+happen.;Learning+fast%2C+building+faster." alt="typing" />
 </p>
 
-
 <p align="center">
-
-  <a href="https://github.com/diulll/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://stars.github.com/profiles/diulll/">
+    <img src="https://github.com/diulll/diulll/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
 
 
