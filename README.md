@@ -1,4 +1,7 @@
-## Hi there 👋
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Parinya%20Aobaun&fontSize=42&fontAlignY=36&desc=Computer%20Engineering%20%7C%20Rust%20%E2%80%A2%20Python%20%E2%80%A2%20TypeScript&descAlignY=58&animation=fadeIn" alt="header" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diulll&show_icons=true&theme=radical" alt="GitHub Stats" />
