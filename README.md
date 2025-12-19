@@ -1,12 +1,14 @@
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Ulso&fontSize=42&fontAlignY=36&desc=Web%20Developer%20%7C%20Ui%20Ux%20Designer%20&descAlignY=58&animation=fadeIn" alt="header" />
+</p>
+
   <div align="center">
 <div style="background-color: black; color: white; padding: 20px;">
   <div align="center">
     <img width="9000" height="430" src="https://i.pinimg.com/736x/1e/50/fd/1e50fda33b9ae07d20f5f6df26b7fddf.jpg"/>
   </div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Ulso&fontSize=42&fontAlignY=36&desc=Web%20Developer%20%7C%20Ui%20Ux%20Designer%20&descAlignY=58&animation=fadeIn" alt="header" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Solve+hard+problems.+Ship+clean+systems.;Do+your+duty+and+let+things+happen.;Learning+fast%2C+building+faster." alt="typing" />
