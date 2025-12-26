@@ -6,7 +6,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Solve+hard+problems.+Ship+clean+systems.;Do+your+duty+and+let+things+happen.;Learning+fast%2C+building+faster." alt="typing" />
 </p>
 
@@ -23,13 +23,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diulll&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/diulll/diulll/output/github-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
 
-<div align="center">
+
 
 <div align="left">
   <div style="display: flex; align-items: center; gap: 12px;">
