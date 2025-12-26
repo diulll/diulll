@@ -12,11 +12,11 @@
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=diulll&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<div align="center">
+<div align="left">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=diulll&theme=radical&hide_border=false)<br/>
 
