@@ -6,6 +6,11 @@
 
 [<img src="https://raw.githubusercontent.com/diulll/diulll/main/intro.gif" alt="👋 Hi there! I'm (diul(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
+<img src="https://raw.githubusercontent.com/diulll/diulll/main/intro.gif" 
+alt="👋 Hi there! I'm diulll" 
+title="👋 Hi there! I'm diulll" />
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Solve+hard+problems.+Ship+clean+systems.;Do+your+duty+and+let+things+happen.;Learning+fast%2C+building+faster." alt="typing" />
