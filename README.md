@@ -31,6 +31,6 @@
 
 <div align="center">
 
-<div align="center">
+<div align="flex">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=diulll.diulll&"  />
 </div>
