@@ -31,6 +31,9 @@
 
 <div align="center">
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=diulll.diulll&"  />
+<div style="display: flex; align-items: center; gap: 12px;">
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=diulll.diulll"
+    alt="visitor badge"
+  />
 </div>
