@@ -12,9 +12,7 @@
 
 
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diulll&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p> 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diulll&show_icons=true&theme=radical)
 
 <div align="center">
 
