@@ -12,11 +12,7 @@
 
 
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diulll&layout=compact&theme=radical"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=diulll&theme=radical)
 
 
 
