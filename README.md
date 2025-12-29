@@ -12,13 +12,6 @@
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-diulll-black?style=for-the-badge&logo=github" />
-  <br />
-  <img src="https://img.shields.io/github/followers/diulll?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/diulll?label=Stars&style=flat-square" />
-</p>
-
 
 
 <div align="center">
