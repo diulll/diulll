@@ -12,8 +12,12 @@
 
 
 
+<!-- GitHub Profile Stats (Stable Mirror) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diulll&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diulll&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 
