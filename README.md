@@ -11,9 +11,10 @@
 </p> 
 
 
-Hi Im Nauval, a special human
-with some ability to love learning
-and working on teamwork.
+## 🧑‍💻 About Me
+
+Hi! I'm **Nauval**, a passionate **Frontend Web Developer** a special human with some ability to love learning and working on teamwork. using **React.js** and **Tailwind CSS**.
+
 
 
 <div align="center">
