@@ -18,15 +18,17 @@
 
 <div align="center">
  
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=diulll&show_icons=true&theme=tokyonight)
-
+ ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=diulll&layout=compact&theme=tokyonight)
+ 
 </div>
 
 <div align="center">
  
- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=diulll&layout=compact&theme=tokyonight)
- 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=diulll&show_icons=true&theme=tokyonight)
+
 </div>
+
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=diulll&theme=radical&hide_border=false)<br/>
 
