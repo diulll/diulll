@@ -11,7 +11,9 @@
 </p> 
 
 
-
+Hi Im Nauval, a special human
+with some ability to love learning
+and working on teamwork.
 
 
 <div align="center">
