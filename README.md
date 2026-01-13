@@ -15,6 +15,12 @@
 
 Hi! I'm **Nauval**, a passionate **Frontend Web Developer** a special human with some ability to love learning and working on teamwork. using **React.js** and **Tailwind CSS**.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/badiul-fikri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badiul-fikri" height="30" width="40" /></a>
+<a href="https://www.instagram.com/diul.f/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diul.f" height="30" width="40" /></a>
+
+
 
 
 <div align="center">
