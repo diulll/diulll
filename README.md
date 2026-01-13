@@ -17,7 +17,7 @@ Hi! I'm **Nauval**, a passionate **Frontend Web Developer** a special human with
 
 
 
-
+<div align="center">
 
 <div align="center">
  
