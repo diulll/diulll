@@ -52,11 +52,11 @@ Hi! I'm **Nauval**, a passionate **Frontend Web Developer** a special human with
 
 
 
-<div align="left">
+<!-- <div align="left">
   <div style="display: flex; align-items: center; gap: 12px;">
     <img
       src="https://visitor-badge.laobi.icu/badge?page_id=diulll.diulll"
       alt="visitor badge"
     />
   </div>
-</div> 
+</div>  -->
