@@ -7,7 +7,7 @@
 
 
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Lorem+Ipsum+Dolor.+Amet+Icikiwir+Wir.;Do+your+duty+and+let+things+happen.;Learning+fast%2C+building+faster." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Lorem+Ipsum+Dolor+Sir+Amet+Icikiwir+Wir.;Do+your+duty+and+let+things+happen.;Learning+fast%2C+building+faster." alt="typing" />
 </p> 
 
 
