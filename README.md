@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **Nauval**, a passionate **Frontend Web Developer** a special human with some ability to love learning and working on teamwork. using **React.js** and **Tailwind CSS**.
+Hi! I'm **Nauval**, a passionate **Frontend Web Developer** a special human with some ability to love learning and working on teamwork. using **React.js**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
