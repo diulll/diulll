@@ -37,7 +37,7 @@ Hi! I'm **Nauval**, a passionate **Frontend Web Developer** a special human with
 
 </div>
 
-
+![](https://nirzak-streak-stats.vercel.app/?user=diulll&theme=radical&hide_border=false)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=diulll&theme=radical&hide_border=false)<br/>
 
