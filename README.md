@@ -36,7 +36,7 @@ Hi! I'm **Nauval**, a passionate **Frontend Web Developer** a special human with
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=diulll&show_icons=true&theme=tokyonight)
 
 </div>
- <img src="https://streak-stats.demolab.com?user=diulll&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=diulll&theme=tokyonight" alt="GitHub Streak" />
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/diulll/diulll/output/github-snake-dark.svg" alt="Snake animation"/>
